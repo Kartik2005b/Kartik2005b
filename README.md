@@ -12,9 +12,9 @@
 
 I’m a Second-year B.Tech student from India, diving into everything tech-related—from crafting sleek web apps to wrestling with data structures. Fueled by curiosity and a zest for learning (not by coffee), I love turning bright ideas into reality, one project at a time!
 
-- 🔭 Currently on a journey to master the **MERN Stack**.
+- 🔭 Currently on a journey to master the ** Java Developer**.
 - 🧠 Passionate about **AI, ML**, and all things that make tech smarter.
-- 📧 Get in touch: **adityabro925@gmail.com**
+- 📧 Get in touch: **bishtkartik2005@gmail.com**
 - ⚡ And when I’m not coding, you’ll probably find me binge-watching the latest drama—because sometimes, the best debugging instincts come from plot twists!
 ### 🛠️ Tech Stack & Tools I Use
 
@@ -35,7 +35,7 @@ I believe that a developer’s toolkit is never complete—it keeps growing! Her
 I’m always excited to connect with like-minded developers and tech enthusiasts!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya2006p/" target="_blank">
+  <a href="https://www.linkedin.com/in/kartik2005b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/aditya2006p/" target="_blank">
