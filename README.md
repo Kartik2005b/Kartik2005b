@@ -38,7 +38,7 @@ I’m always excited to connect with like-minded developers and tech enthusiasts
   <a href="https://www.linkedin.com/in/kartik2005b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/aditya2006p/" target="_blank">
+  <a href="https://leetcode.com/u/kartik 2005b/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Competitive%20Coding-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
 </p>
