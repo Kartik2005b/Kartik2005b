@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Kartik Bisht!</h1>
+<h1 align="center">👋 Hey there, I'm Kartik!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Exploring%20the%20digital%20world%20with%20code!;&width=500&height=50">
